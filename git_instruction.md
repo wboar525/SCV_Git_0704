@@ -11,8 +11,8 @@
 ## 3. Настройка Git
 При первом запуске **Git** необходимо представиться, для этого необходимо ввести в терминале 2 команды :
 ```
-git config --global user.name "Имя"
-git config --global user.email "email"
+git config --global user.name "Author name"
+git config --global user.email "Author email"
 ```
 ## 4. Инициализация репозитория
 В терманале переходим к папке, в которой хотим создать репозиторий. Выполняем команду ` git init `
